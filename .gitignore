@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Temporary & Build Output
+work/
+frames/
+stills/
+out/
+tmp/
+*.tmp
+
+# Generated Media
+*.mp4
+*.wav
+*.m4a
+*.aac
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
